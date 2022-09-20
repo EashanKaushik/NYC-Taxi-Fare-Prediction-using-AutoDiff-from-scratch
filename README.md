@@ -1,1 +1,1 @@
-# NYC-Taxi-Fare-Prediction-using-AutoDiff-from-scratch
+# NYC Taxi Fare Prediction using Automatic-Differentiation and Neural Networks from scratch
